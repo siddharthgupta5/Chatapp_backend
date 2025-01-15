@@ -1,10 +1,10 @@
-Here’s a comprehensive `README.md` file for your `ChatApp-Backend` repository:
+Here’s a comprehensive `README.md` file for your `Chatapp_backend` repository:
 
 ---
 
-# ChatApp-Backend
+# Chatapp_backend
 
-Welcome to the **ChatApp-Backend** repository! This project is the backend component of ChatApp, a real-time chat application built using Strapi, an open-source headless CMS. The backend handles user authentication, real-time messaging via WebSocket, and data management, providing a solid foundation for the frontend component.
+Welcome to the **Chatapp_backend** repository! This project is the backend component of ChatApp, a real-time chat application built using Strapi, an open-source headless CMS. The backend handles user authentication, real-time messaging via WebSocket, and data management, providing a solid foundation for the frontend component.
 
 ## Features
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/siddharthgupta5/Chatapp_backend.git
-   cd ChatApp-Backend
+   cd Chatapp_backend
    ```
 
 2. **Install the dependencies:**
@@ -84,7 +84,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```plaintext
-ChatApp-Backend/
+Chatapp_backend/
 ├── api/
 │   ├── auth/
 │   ├── messages/
@@ -118,44 +118,4 @@ ChatApp-Backend/
 - **WebSocket**: Enables real-time communication between the client and the server.
 - **SQLite/MySQL/PostgreSQL**: Strapi supports various databases; configure your preferred database in the `.env` file.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions or find any bugs, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to the project's coding standards and is well-documented.
-
-### Steps to Contribute
-
-1. **Fork the repository:**
-
-   Click on the "Fork" button at the top right of this repository.
-
-2. **Clone your fork:**
-
-   ```bash
-   git clone https://github.com/siddharthgupta5/Chatapp_backend.git
-   ```
-
-3. **Create a new branch for your feature or bugfix:**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **Make your changes and commit them:**
-
-   ```bash
-   git commit -m "Description of the changes you made"
-   ```
-
-5. **Push your changes to GitHub:**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. **Submit a pull request:**
-
-   Go to the original repository and create a pull request with a description of your changes.
-
----
-
-This `README.md` provides a comprehensive guide to setting up, configuring, and contributing to the ChatApp-Backend project. It covers the key features, installation instructions, and detailed usage guidelines to help developers get started quickly.
