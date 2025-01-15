@@ -6,20 +6,6 @@ Here’s a comprehensive `README.md` file for your `ChatApp-Backend` repository:
 
 Welcome to the **ChatApp-Backend** repository! This project is the backend component of ChatApp, a real-time chat application built using Strapi, an open-source headless CMS. The backend handles user authentication, real-time messaging via WebSocket, and data management, providing a solid foundation for the frontend component.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **User Authentication**: Secure registration and login functionality using JWT (JSON Web Token).
@@ -44,7 +30,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yashlt224/ChatApp-Backend.git
+   git clone https://github.com/siddharthgupta5/Chatapp_backend.git
    cd ChatApp-Backend
    ```
 
@@ -145,7 +131,7 @@ Contributions are welcome! If you have suggestions or find any bugs, feel free t
 2. **Clone your fork:**
 
    ```bash
-   git clone https://github.com/yashlt224/ChatApp-Backend.git
+   git clone https://github.com/siddharthgupta5/Chatapp_backend.git
    ```
 
 3. **Create a new branch for your feature or bugfix:**
@@ -169,10 +155,6 @@ Contributions are welcome! If you have suggestions or find any bugs, feel free t
 6. **Submit a pull request:**
 
    Go to the original repository and create a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
